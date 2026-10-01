@@ -1,0 +1,22 @@
+/* style.css */
+
+/* Styles pour le bouton de génération de VCARD */
+.generate-qr-code-btn {
+    background-color: #0073aa;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.generate-qr-code-btn:hover {
+    background-color: #005580;
+}
+
+/* Styles pour le champ de saisie de l'URL de la carte */
+#url_de_carte {
+   
+    display: none;
+}
